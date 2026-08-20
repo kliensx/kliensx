@@ -1,4 +1,4 @@
-# 🤍 | Kostren Kalibor
+![Photo](./assets/mainpg.png)
 
 ## About me
 
